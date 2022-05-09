@@ -26,7 +26,7 @@ Porém, é evidente que esse crescimento não é igualmente distribuído. Para h
 
 O grupo que teve menor rendimento médio é o que acumula ambas as categorias: a **mulher negra**, com um rendimento médio **52,7% menor** que o de um homem branco.
 
-![plot 2](plots/rem_média_categoria.png#gh-light-mode-only)
+(plots/rem_média_categoria.png#gh-light-mode-only)
 
 Em termos de evolução da discrepância na remuneração, servidores negros sofreram grande aumento no gap salarial em relação a servidores brancos. Até meados de 2005, os servidores negros recebiam em média **RS 1500,00** a menos que servidores brancos. A partir de 2005 esse gap aumentou consideravelmente, chegando a uma diferença próxima a **R$ 2.500,00** em 2011, e se mantendo por essa vizinhança até os anos recentes.
 
