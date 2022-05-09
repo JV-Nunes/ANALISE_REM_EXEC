@@ -19,14 +19,14 @@ Os dados obtidos continham informações da remununeração média líquida dos 
 
 A partir dos dados obtidos, é possível observar que a remuneração média líquida dos servidores saiu de uma base em torno de R$ 5.000,00 na década de 2000 para R$ 7.500,00 na década de 2010. Isso mostra um crescimento na remuneração média de em torno de 50% no período.
 
-![plot 1](plots/Rem_Executivo_civil.png#gh-light-mode-only)
+[plot 1](plots/Rem_Executivo_civil.png#gh-light-mode-only)
 
 
 Porém, é evidente que esse crescimento não é igualmente distribuído. Para homens, a remuneração média no período é **12% maior** que a média feminina. Para brancos e negros, essa diferença é ainda mais considerável: Brancos ganharam em média **37,3% a mais que negros** no período.
 
 O grupo que teve menor rendimento médio é o que acumula ambas as categorias: a **mulher negra**, com um rendimento médio **52,7% menor** que o de um homem branco.
 
-(plots/rem_média_categoria.png#gh-light-mode-only)
+![plot 2](plots/rem_média_categoria.png#gh-light-mode-only)
 
 Em termos de evolução da discrepância na remuneração, servidores negros sofreram grande aumento no gap salarial em relação a servidores brancos. Até meados de 2005, os servidores negros recebiam em média **RS 1500,00** a menos que servidores brancos. A partir de 2005 esse gap aumentou consideravelmente, chegando a uma diferença próxima a **R$ 2.500,00** em 2011, e se mantendo por essa vizinhança até os anos recentes.
 
