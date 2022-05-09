@@ -26,13 +26,13 @@ Porém, é evidente que esse crescimento não é igualmente distribuído. Para h
 
 O grupo que teve menor rendimento médio é o que acumula ambas as categorias: a **mulher negra**, com um rendimento médio **52,7% menor** que o de um homem branco.
 
-![plot 2](plots/rem_média_categoria.png#gh-light-mode-only)
+![plot 2](plots/rem_média_categoria.png)
 
 Em termos de evolução da discrepância na remuneração, servidores negros sofreram grande aumento no gap salarial em relação a servidores brancos. Até meados de 2005, os servidores negros recebiam em média **RS 1500,00** a menos que servidores brancos. A partir de 2005 esse gap aumentou consideravelmente, chegando a uma diferença próxima a **R$ 2.500,00** em 2011, e se mantendo por essa vizinhança até os anos recentes.
 
 Já no caso de mulheres, a diferença salarial para os homens flutuou entre R$ 600,00 e R$ 900,00 reais, o que demonstra que o parâmetro de raça impacta mais robustamente na remuneração que o sexo.
 
-![plot 3](plots/diferenca_rem.png#gh-light-mode-only)
+![plot 3](plots/diferenca_rem.png)
 
 ### Regressão
 
@@ -40,8 +40,8 @@ Para analisar a tendência e realizar previsão do comportamento da remuneraçã
 
 O modelo performou excelentemente na previsão dos dados, apesar da série temporal curta.
 
-![plot 4](plots/performance.png#gh-light-mode-only)
-![plot 5](plots/efetivoxmodelo.png#gh-light-mode-only)
+![plot 4](plots/performance.png)
+![plot 5](plots/efetivoxmodelo.png)
 
 É notável a partir dos dados que a remuneração **média geral** teve um aumento acentuado na metade da série temporal. Para os últimos anos, a série tem se mantido em uma vizinhança sem muita variância, chegando ao ano final (2020) apresentando uma tendência de baixa. 
 
@@ -59,6 +59,6 @@ A previsão mantém a tendência com flutuações momentâneas ao redor da médi
 #### Parâmetros
 O parâmetro de maior peso para a remuneração de acordo com o modelo apresentado é a raça, assim como ressaltado na análise acima. O modelo atribuiu a raça branca **69%** do peso na definição da remuneração:
 
-![plot 6](plots/MODELO-Peso.png#gh-light-mode-only)
+![plot 6](plots/MODELO-Peso.png)
 
 Isso é reflexo do grande gap salarial encontrado entre brancos e negros e como isso influencia drásticamente na remuneração mensal do contribuinte.
